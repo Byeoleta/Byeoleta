@@ -13,9 +13,15 @@
   ![jQuery](https://img.shields.io/badge/jQuery-6DB33F?style=flat-square&logo=jQuery&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
   <br><br><br>
-  
+
+## 🌿 My tool 🌿
+  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)
+  ![VisualStudioCode](https://img.shields.io/badge/Visual&#160;Studio&#160;Code-708090?style=flat-square&logo=VisualStudioCode&logoColor=white)
+  ![Zeplin](https://img.shields.io/badge/Zeplin-FFA500?style=flat-square&logo=AzurePipelines&logoColor=white)
+
 ## 🌿 Contact Byeoleta 🌿
-  [![Notion](https://img.shields.io/badge/Notion-F7DF1E?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Byeol-s-Note-cb2116ac64e446b3b9016ced3dfb311c)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeongeunbyeol8@gmail.com)
+  [![Notion](https://img.shields.io/badge/Notion-FFB6C1?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Byeol-s-Note-cb2116ac64e446b3b9016ced3dfb311c)
+  [![Gmail](https://img.shields.io/badge/Gmail-87CEEB?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeongeunbyeol8@gmail.com)
+  <br><br><br>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=ThankYou();&fontSize=90)
