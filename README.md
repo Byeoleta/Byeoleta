@@ -15,6 +15,6 @@
 <br><br><br>
   
 ## 🌿 Contact Byeoleta 🌿
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.jeongeunbyeol8@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeongeunbyeol8@gmail.com)
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=ThankYou();&fontSize=90)
